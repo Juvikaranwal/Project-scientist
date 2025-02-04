@@ -1,0 +1,11 @@
+streamlit
+crewai
+langchain
+langchain-openai
+faiss-cpu
+sentence-transformers
+PyMuPDF
+tqdm
+numpy
+python-dotenv
+python-docx 
